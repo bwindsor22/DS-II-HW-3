@@ -14,7 +14,7 @@ Refer to the maps lecture for some background: https://docs.google.com/presentat
 ## Problem 3: Trees
 Refer to the trees lecture for help in getting started: https://docs.google.com/presentation/d/1NZeue2naoEM7WkQSUhbSmiLm5MGcamoKhL36YkRsiLk/edit?usp=sharing 
 
-3.1) Write a preorder traversal which will prints all the leaves of a tree. A leaf is a node that has no children, i.e. node.left is null and node.right is null.
+3.1) Write a preorder traversal which will prints all the leaves of a tree. A leaf is a node that has no children, i.e. node.left is null and node.right is null. This should be a normal preorder traversal, except that only some nodes are printed.
 
 
 3.2) Write an inorder traversal which prints the values of the tree from right to left.
