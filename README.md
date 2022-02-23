@@ -5,8 +5,7 @@
 
 Here are some sites where a map is used as a counter:
 * https://stackoverflow.com/questions/4277388/increment-an-integer-within-a-hashmap
-* https://www.techiedelight.com/increment-keys-value-map-java/ 
-* https://www.techiedelight.com/increment-map-value-java-8/
+* https://ao.ms/java-hashmap-create-or-increment-value/
 
 ## Problem 2: Maps practice, continued
 Write a function `addDelivery` which, for a stream of FruitOrders, tallies the inventory left in the store at the end of the month. `itemCount` should add with each delivery, while `oldestDate` remains unchanged once set.
