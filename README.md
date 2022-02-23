@@ -5,7 +5,7 @@
 
 
 ## Problem 2: Maps practice, continued
-Write a function `addDelivery` which, for a stream of FruitOrders, tallies the inventory left in the store at the end of the month.
+Write a function `addDelivery` which, for a stream of FruitOrders, tallies the inventory left in the store at the end of the month. `itemCount` should add with each delivery, while `oldestDate` remains unchanged once set.
 
 Refer to the maps lecture for some background: https://docs.google.com/presentation/d/1j6g3OsZ5P1oOjfX0I-FARfWpsybEjQp4Dvw8AFbNIbg/edit?usp=sharing
 
