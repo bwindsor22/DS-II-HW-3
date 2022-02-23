@@ -17,4 +17,4 @@ Refer to the trees lecture for help in getting started: https://docs.google.com/
 3.1) Write a preorder traversal which will prints all the leaves of a tree. A leaf is a node that has no children, i.e. node.left is null and node.right is null. This should be a normal preorder traversal, except that only some nodes are printed.
 
 
-3.2) Write an inorder traversal which prints the values of the tree from right to left.
+3.2) Write an inorder traversal which prints the values of the tree from right to left. In class, we looked at an inorder traversal, left to right.
