@@ -1,7 +1,7 @@
 ## Problem 1: Maps practice
 1.1) Write a function `hasManyVowels`, for an arbitrary string, determines whether the string contains at least two of each vowel. Use a data structure `Map<Character, Integer>` to keep track of counts and `toCharArray()` to change `s` to a list of characters. 
 
-1.2) Similarly, write `hasManyOfType` where instead of values, the user can specify the characters the string must have and how many of each. `hasManyOfType(s, "aeiou", 2)` is the same as `hasVowels(s)`.
+1.2) Similarly, write `hasManyOfType` where instead of values, the user can specify the characters the string must have and how many of each. `hasManyOfType(s, "aeiou", 2)` is the same as `hasManyVowels(s)`.
 
 Here are some sites where a map is used as a counter:
 * https://stackoverflow.com/questions/4277388/increment-an-integer-within-a-hashmap
