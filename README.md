@@ -4,6 +4,7 @@
 1.2) Similarly, write `hasManyOfType` where instead of values, the user can specify the characters the string must have and how many of each. `hasManyOfType(s, "aeiou", 2)` is the same as `hasManyVowels(s)`.
 
 Here are some sites where a map is used as a counter:
+* https://gist.github.com/bwindsor22/9514d2cf98e5132f4a3d4d340622fe10
 * https://stackoverflow.com/questions/4277388/increment-an-integer-within-a-hashmap
 * https://ao.ms/java-hashmap-create-or-increment-value/
 
